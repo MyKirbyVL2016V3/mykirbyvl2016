@@ -1,0 +1,4 @@
+Can help Install MyKirbyVL2016Animate Websites
+Go to sites:https://nodejs.org/
+1.Install Flash.exe
+2.Install Node.js
